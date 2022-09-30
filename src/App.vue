@@ -1,5 +1,8 @@
 <template>
   <div>
+    <h1>Universidad Tecnologica de Tehuacan</h1>
+    <h2>APW</h2>
+    <h3>Grupo 4B</h3>
     <h1>Directivas en Vue.js</h1>
     <hr/>
     <h2>v-text</h2>
